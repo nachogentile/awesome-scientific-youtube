@@ -5,9 +5,7 @@ This is a list of high-quality science related YouTube channels I collected duri
 
 YouTube substituted my regular TV thanks to channels like these, I hope you enjoy the content as much as I do.
 
-## The list
-
-###General Interest
+##General Interest
 
 CGP Grey
 https://www.youtube.com/user/CGPGrey/videos
@@ -72,37 +70,39 @@ Wellcome Collection
 https://www.youtube.com/channel/UCQHcvhpkH0z5lFd2LbKzIBQ
 
 
-###Physics
+##Physics
 
-Physics Girl
-https://www.youtube.com/user/physicswoman
+###Physics Girl - https://www.youtube.com/user/physicswoman
 
-Minute Physics
-https://www.youtube.com/channel/UCUHW94eEFW7hkUMVaZz4eDg
+###Minute Physics - https://www.youtube.com/channel/UCUHW94eEFW7hkUMVaZz4eDg
 
 
-###Mathematics
+##Mathematics
 
-Numberphile - https://www.youtube.com/channel/UCoxcjq-8xIDTYp3uz647V5A
+###Numberphile - https://www.youtube.com/channel/UCoxcjq-8xIDTYp3uz647V5A
+
 Brandy Haran make awesome videos with mathematicians at MSRI (Berkely, CA). The channel is quite fun and the videos well produced. Speakers explain concepts in a very clear and interesting way.
 
-Vi Hart - https://www.youtube.com/channel/UCOGeU-1Fig3rrDjhm9Zs_wg
+###Vi Hart - https://www.youtube.com/channel/UCOGeU-1Fig3rrDjhm9Zs_wg
+
 Self-described "recreational mathemusician", Victoria is make very original videos where she basically doodle a notebook while she explains very interesting math tricks.
 
-Mathologer - https://www.youtube.com/channel/UC1_uAIS3r8Vu6JjXWvastJg
+###Mathologer - https://www.youtube.com/channel/UC1_uAIS3r8Vu6JjXWvastJg
+
 Burkard Polster expose very interesting math rules and problems. The channel feels personal, more similar to an actual math professor, a quite nice one.
 
-MindYourDecisions - https://www.youtube.com/channel/UCHnj59g7jezwTy5GeL8EA_g
+###MindYourDecisions - https://www.youtube.com/channel/UCHnj59g7jezwTy5GeL8EA_g
+
 Presh Talwalkar explains logic riddles and math explainations.
 
-StandUpMaths - https://www.youtube.com/watch?v=07PBcmGozDA
+###StandUpMaths - https://www.youtube.com/watch?v=07PBcmGozDA
 
-Singingbanana - https://www.youtube.com/watch?v=1GKfEDvhWdY
+###Singingbanana - https://www.youtube.com/watch?v=1GKfEDvhWdY
 
+###Tipping Point Math - https://www.youtube.com/user/TippingPointMath
 
-###Chemistry
+##Chemistry
 
-Periodic Videos
-https://www.youtube.com/channel/UCtESv1e7ntJaLJYKIO1FoYw
+###Periodic Videos - https://www.youtube.com/channel/UCtESv1e7ntJaLJYKIO1FoYw
 
 
