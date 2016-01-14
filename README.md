@@ -1,18 +1,9 @@
-# youtube-science-channels
+# Awesome Science Youtube Channels!
 My top list of YouTube scientific disclosure channels.
 
 This is a list of high-quality science related YouTube channels I collected during the last years. There's a bit of everything: history, philosophy, biology, economics, psychology, neuroscience, chemistry... A big dose of science to satisfy your thirst for knowledge!
 
 YouTube substituted my regular TV thanks to channels like these, I hope you enjoy the content as much as I do.
-
-####Here's My top 5:
-
-1. Veritassium
-2. SciShow
-3. Vsauce
-4. CrashCourse
-5. ASAP Science
-
 
 ## The list
 
@@ -41,6 +32,9 @@ https://www.youtube.com/channel/UCVpankR4HtoAVtYnFDUieYA
 
 TED
 https://www.youtube.com/user/TEDtalksDirector
+
+TED-ED
+https://www.youtube.com/channel/UCsooa4yRKGN_zEE8iknghZA
 
 ###General Science
 
@@ -89,11 +83,21 @@ https://www.youtube.com/channel/UCUHW94eEFW7hkUMVaZz4eDg
 
 ###Mathematics
 
-Numberphile
-https://www.youtube.com/channel/UCoxcjq-8xIDTYp3uz647V5A
+Numberphile - https://www.youtube.com/channel/UCoxcjq-8xIDTYp3uz647V5A
+Brandy Haran make awesome videos with mathematicians at MSRI (Berkely, CA). The channel is quite fun and the videos well produced. Speakers explain concepts in a very clear and interesting way.
 
-Vi Hart
-https://www.youtube.com/channel/UCOGeU-1Fig3rrDjhm9Zs_wg
+Vi Hart - https://www.youtube.com/channel/UCOGeU-1Fig3rrDjhm9Zs_wg
+Self-described "recreational mathemusician", Victoria is make very original videos where she basically doodle a notebook while she explains very interesting math tricks.
+
+Mathologer - https://www.youtube.com/channel/UC1_uAIS3r8Vu6JjXWvastJg
+Burkard Polster expose very interesting math rules and problems. The channel feels personal, more similar to an actual math professor, a quite nice one.
+
+MindYourDecisions - https://www.youtube.com/channel/UCHnj59g7jezwTy5GeL8EA_g
+Presh Talwalkar explains logic riddles and math explainations.
+
+StandUpMaths - https://www.youtube.com/watch?v=07PBcmGozDA
+
+Singingbanana - https://www.youtube.com/watch?v=1GKfEDvhWdY
 
 
 ###Chemistry
